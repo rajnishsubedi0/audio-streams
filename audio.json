@@ -1,0 +1,32 @@
+{
+  "tracks": [
+    {
+      "id": "ye_dil_deewana",
+      "title": "Ye dil deewana",
+      "url": "ye_dil_deewana.mp3",
+      "duration": 245,
+      "category": "Others"
+    },
+    {
+      "id": "pehla_nasha",
+      "title": "Pehela nasha pehela khumab",
+      "url": "pehla_nasha.mp3",
+      "duration": 312,
+      "category": "Krishna"
+    },
+    {
+      "id": "main_koi_aisa_geet",
+      "title": "Main koi aisa geet gaun",
+      "url": "main_koi_aisa_geet.mp3",
+      "duration": 280,
+      "category": "Shiva"
+    },
+    {
+      "id": "chupke_chupke",
+      "title": "Do dil mil rahen hai",
+      "url": "chupke_chupke.mp3",
+      "duration": 480,
+      "category": "Shiva"
+    }
+  ]
+}
