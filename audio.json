@@ -1,32 +1,148 @@
 {
   "tracks": [
     {
-      "id": "ye_dil_deewana",
-      "title": "Ye dil deewana",
-      "url": "ye_dil_deewana.mp3",
-      "duration": 245,
-      "category": "Others"
+      "id": "dhun_bajyo_dhun_bajyo",
+      "title": "धुन बज्यो धुन बज्यो पक्कै कृष्ण हुन",
+      "url": "dhun_bajyo_dhun_bajyo.mp3",
+      "duration": 360,
+      "category": "krishna"
     },
     {
-      "id": "pehla_nasha",
-      "title": "Pehela nasha pehela khumab",
-      "url": "pehla_nasha.mp3",
-      "duration": 312,
-      "category": "Krishna"
-    },
-    {
-      "id": "main_koi_aisa_geet",
-      "title": "Main koi aisa geet gaun",
-      "url": "main_koi_aisa_geet.mp3",
+      "id": "brindaban_ma_gau",
+      "title": "वृन्दावनमा गौ भन्देउ न कृष्णजी तिमी कहाँ छौ",
+      "url": "brindaban_ma_gau.mp3",
       "duration": 280,
-      "category": "Shiva"
+      "category": "krishna"
     },
     {
-      "id": "chupke_chupke",
-      "title": "Do dil mil rahen hai",
-      "url": "chupke_chupke.mp3",
-      "duration": 480,
-      "category": "Shiva"
+      "id": "banshi_mitho_krishnale_bajako",
+      "title": "वंशी मिठो कृष्णले बजाको",
+      "url": "banshi_mitho_krishnale_bajako.mp3",
+      "duration": 278,
+      "category": "krishna"
+    },
+    {
+      "id": "makhan_chor_handi_for",
+      "title": "माखन चोर हन्डीफोर",
+      "url": "makhan_chor_handi_for.mp3",
+      "duration": 551,
+      "category": "krishna"
+    },
+    {
+      "id": "krishna_gaye_banaima",
+      "title": "कृष्ण गए बनैमा राधिकालाई सम्झी मनैमा",
+      "url": "krishna_gaye_banaima.mp3",
+      "duration": 207,
+      "category": "krishna"
+    }
+    ,
+    {
+      "id": "yo_kali_kalma_ram_bolyo_mainale",
+      "title": "यो कलि कालमा राम बोल्यो मैना ले मान्छेले बोल्दैन",
+      "url": "yo_kali_kalma_ram_bolyo_mainale.mp3",
+      "duration": 380,
+      "category": "other"
+    }
+    ,
+    {
+      "id": "khola_prabhu_yo_chola",
+      "title": "के होला प्रभु यो चोला",
+      "url": "khola_prabhu_yo_chola.mp3",
+      "duration": 267,
+      "category": "other"
+    }
+    ,
+    {
+      "id": "hey_krishna_malai_mitho_banshi_sunaideuna",
+      "title": "हे कृष्ण मलाई मिठो बंशी सुनाइदेउन",
+      "url": "hey_krishna_malai_mitho_banshi_sunaideuna.mp3",
+      "duration": 441,
+      "category": "krishna"
+    },
+    {
+      "id": "aauna_krishna_basana_hamro_manaima",
+      "title": "आउन कृष्ण बसन हाम्रो मनैमा",
+      "url": "aauna_krishna_basana_hamro_manaima.mp3",
+      "duration": 150,
+      "category": "krishna"
+    },
+    {
+      "id": "kati_ramro_tyo_brindabana_salalala_bageki_yamuna",
+      "title": "कति राम्रो त्यो वृन्दावन सलल बगेकी यमुना",
+      "url": "kati_ramro_tyo_brindabana_salalala_bageki_yamuna.mp3",
+      "duration": 254,
+      "category": "krishna"
+    },
+    {
+      "id": "hridayama_krishnako_photo_xa",
+      "title": "हृदयमा कृष्णको फोटो छ, जीवन हाम्रो छोटो छ",
+      "url": "hridayama_krishnako_photo_xa.mp3",
+      "duration": 363,
+      "category": "krishna"
+    },
+    {
+      "id": "phulko_mala_tyo_timro_galama",
+      "title": "फुलको माला त्यो तिम्रो गलामा मोहनी पो छ",
+      "url": "phulko_mala_tyo_timro_galama.mp3",
+      "duration": 230,
+      "category": "krishna"
+    },
+    {
+      "id": "gokulma_pani_khoje_mathura_ma_pani_khoje",
+      "title": "गोकुलमा पनि खोजे मथुरामा पनि खोजे",
+      "url": "gokulma_pani_khoje_mathura_ma_pani_khoje.mp3",
+      "duration": 317,
+      "category": "krishna"
+    },
+    {
+      "id": "basuriko_dhuna_sunera_aayou_hami_dailo",
+      "title": "बाँसुरीको धुन सुनेर आयौँ हामी दैलो थुनेर",
+      "url": "basuriko_dhuna_sunera_aayou_hami_dailo.mp3",
+      "duration": 221,
+      "category": "krishna"
+    },
+    {
+      "id": "krishnajee_manparyo_malai_laijauna_brindaban_ghumnalai",
+      "title": "कृष्णजी मन पर्यो मलाई लैजाउन वृन्दावन घुम्नलाई",
+      "url": "krishnajee_manparyo_malai_laijauna_brindaban_ghumnalai.mp3",
+      "duration": 268,
+      "category": "krishna"
+    },
+    {
+      "id": "kasari_manau_shivalai_shivalai",
+      "title": "कसरी मनाउ शिवलाई",
+      "url": "kasari_manau_shivalai_shivalai.mp3",
+      "duration": 255,
+      "category": "krishna"
+    },
+    {
+      "id": "dama_dama_damaru_bajyo_mero_bhole_babako",
+      "title": "डम डम डमरु बज्यो मेरो भोले बाबाको",
+      "url": "dama_dama_damaru_bajyo_mero_bhole_babako.mp3",
+      "duration": 327,
+      "category": "shiva"
+    },
+    {
+      "id": "shankhara_bhole_bam_bam_bam_darshana_garna",
+      "title": "शंकर र भोले बम बम बम दर्शन गर्न",
+      "url": "shankhara_bhole_bam_bam_bam_darshana_garna.mp3",
+      "duration": 366,
+      "category": "shiva"
+    },
+    {
+      "id": "jaya_jaya_ho_bhole_baba_hara_bam_bam",
+      "title": "जय जय हो भोलेबाबा हर बम बम",
+      "url": "jaya_jaya_ho_bhole_baba_hara_bam_bam.mp3",
+      "duration": 278,
+      "category": "shiva"
+    }
+    ,
+    {
+      "id": "mathi_mathi_kailasama_damaru_bajaune_lai",
+      "title": "माथि माथि कैलासमा डमरु बजाउनेलाई",
+      "url": "mathi_mathi_kailasama_damaru_bajaune_lai.mp3",
+      "duration": 232,
+      "category": "shiva"
     }
   ]
 }

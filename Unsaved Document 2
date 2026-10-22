@@ -1,0 +1,22 @@
+ffmpeg -ss 3 -i input.mp3 -c copy output.mp3
+
+ffmpeg -i krishnajee_manparyo_malai_laijauna_brindaban_ghumnalai.mp3 -ss 00:00:00 -t 00:04:28 -c copy output.mp3
+
+ffmpeg -i input.mp3 -ss 00:00:04 -t 00:06:07 -c copy output2.mp3
+
+
+
+https://youtu.be/62rAavh6F5s?si=mcRsn46yg9O_z_WK
+
+// Gokul ma pani khoje mathura ma pani khoje
+https://youtu.be/hKKlCfhOAwk?si=68Nd1PUvCSlEubd3
+
+
+//Krishna bhajan ma lagyo mero man
+https://youtu.be/-UvgQTgaWzc?si=f-aMPwSR4GwQ6aNp
+
+//Mathi mathi kailasha ma
+https://youtu.be/DTx20aWyRKY?si=kQzSSya16Qy-DysI
+
+//Chari bani udau udau lagxa manaima
+https://youtu.be/cNJJK2I9sKk?si=s_1CzI9yi8Ff8Gm6
